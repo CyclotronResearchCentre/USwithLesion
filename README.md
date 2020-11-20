@@ -1,4 +1,4 @@
-# Unified Segementation with Lesion, aka. US-with-Lesion
+# Unified Segmentation with Lesion, aka. US-with-Lesion
 "Unified Segementation" for brain images showing focal brain lesions.
 
 For the moment, the whole project lives in a separate repository, called [USwLesion](https://github.com/CyclotronResearchCentre/USwLesion). It is now public too. A [poster](https://orbi.uliege.be/handle/2268/213972) was presented at the [OHBM conference in Vancouver (June 2017)](https://www.humanbrainmapping.org). A real paper will come out at some point, we are working on it...
